@@ -1,0 +1,10 @@
+D:\VB\Döviz Kuru\bin\Debug\Döviz Kuru.exe.config
+D:\VB\Döviz Kuru\bin\Debug\Döviz Kuru.exe
+D:\VB\Döviz Kuru\bin\Debug\Döviz Kuru.pdb
+D:\VB\Döviz Kuru\obj\Debug\Döviz Kuru.csprojAssemblyReference.cache
+D:\VB\Döviz Kuru\obj\Debug\Döviz_Kuru.Form1.resources
+D:\VB\Döviz Kuru\obj\Debug\Döviz_Kuru.Properties.Resources.resources
+D:\VB\Döviz Kuru\obj\Debug\Döviz Kuru.csproj.GenerateResource.cache
+D:\VB\Döviz Kuru\obj\Debug\Döviz Kuru.csproj.CoreCompileInputs.cache
+D:\VB\Döviz Kuru\obj\Debug\Döviz Kuru.exe
+D:\VB\Döviz Kuru\obj\Debug\Döviz Kuru.pdb
